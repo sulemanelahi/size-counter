@@ -23,7 +23,7 @@ npm install -g size-counter
 
 ### Example
 ```bash
-size-counter -k /path/to/file
+size -k /path/to/file
 ```
 
 This command will display the size of the specified file or directory in kilobytes.
