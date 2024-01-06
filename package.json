@@ -1,0 +1,23 @@
+{
+  "name": "size-counter",
+  "version": "1.0.0",
+  "description": "A simple CLI tool using node and npm to count the byte size. The tool supports flags for kilobytes (KBs), gigabytes (GBs), and terabytes (TBs). The project is designed to provide an efficient way to measure the byte size of files and directories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "size": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulemanelahi/size-counter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulemanelahi/size-counter/issues"
+  },
+  "homepage": "https://github.com/sulemanelahi/size-counter#readme"
+}
